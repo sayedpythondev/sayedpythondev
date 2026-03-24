@@ -4,10 +4,6 @@
 
 <br>
 
-<div align="center">
-  <img src="profile-logo.png" alt="Sayed Profile Logo" width="160" />
-</div>
-
 # 👋 Hello, I'm Sayed
 
 ### Software Developer | Problem Solver | Passionate About Building Real Skills
